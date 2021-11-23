@@ -1,0 +1,16 @@
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\bin\Debug\net5.0\QuerySyntax.exe
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\bin\Debug\net5.0\QuerySyntax.deps.json
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\bin\Debug\net5.0\QuerySyntax.runtimeconfig.json
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\bin\Debug\net5.0\QuerySyntax.runtimeconfig.dev.json
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\bin\Debug\net5.0\QuerySyntax.dll
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\bin\Debug\net5.0\ref\QuerySyntax.dll
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\bin\Debug\net5.0\QuerySyntax.pdb
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\QuerySyntax.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\QuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\QuerySyntax.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\QuerySyntax.AssemblyInfo.cs
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\QuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\QuerySyntax.dll
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\ref\QuerySyntax.dll
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\QuerySyntax.pdb
+C:\Users\test\Desktop\work\Linq\LinqPractice\QuerySyntax\obj\Debug\net5.0\QuerySyntax.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test\\source\\repos\\LinqPractice\\MethodSyntax\\MethodSyntax.csproj": {}
+    "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\MethodSyntax\\MethodSyntax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test\\source\\repos\\LinqPractice\\MethodSyntax\\MethodSyntax.csproj": {
+    "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\MethodSyntax\\MethodSyntax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test\\source\\repos\\LinqPractice\\MethodSyntax\\MethodSyntax.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\MethodSyntax\\MethodSyntax.csproj",
         "projectName": "MethodSyntax",
-        "projectPath": "C:\\Users\\test\\source\\repos\\LinqPractice\\MethodSyntax\\MethodSyntax.csproj",
+        "projectPath": "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\MethodSyntax\\MethodSyntax.csproj",
         "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test\\source\\repos\\LinqPractice\\MethodSyntax\\obj\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\MethodSyntax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",

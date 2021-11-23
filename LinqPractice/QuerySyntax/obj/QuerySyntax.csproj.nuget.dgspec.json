@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\test\\source\\repos\\LinqPractice\\QuerySyntax\\QuerySyntax.csproj": {}
+    "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\QuerySyntax\\QuerySyntax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\test\\source\\repos\\LinqPractice\\QuerySyntax\\QuerySyntax.csproj": {
+    "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\QuerySyntax\\QuerySyntax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\test\\source\\repos\\LinqPractice\\QuerySyntax\\QuerySyntax.csproj",
+        "projectUniqueName": "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\QuerySyntax\\QuerySyntax.csproj",
         "projectName": "QuerySyntax",
-        "projectPath": "C:\\Users\\test\\source\\repos\\LinqPractice\\QuerySyntax\\QuerySyntax.csproj",
+        "projectPath": "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\QuerySyntax\\QuerySyntax.csproj",
         "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\test\\source\\repos\\LinqPractice\\QuerySyntax\\obj\\",
+        "outputPath": "C:\\Users\\test\\Desktop\\work\\Linq\\LinqPractice\\QuerySyntax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
