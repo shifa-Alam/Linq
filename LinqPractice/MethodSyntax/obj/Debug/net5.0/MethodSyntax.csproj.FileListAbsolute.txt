@@ -1,0 +1,16 @@
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\bin\Debug\net5.0\MethodSyntax.exe
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\bin\Debug\net5.0\MethodSyntax.deps.json
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\bin\Debug\net5.0\MethodSyntax.runtimeconfig.json
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\bin\Debug\net5.0\MethodSyntax.runtimeconfig.dev.json
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\bin\Debug\net5.0\MethodSyntax.dll
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\bin\Debug\net5.0\ref\MethodSyntax.dll
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\bin\Debug\net5.0\MethodSyntax.pdb
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\MethodSyntax.csproj.AssemblyReference.cache
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\MethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\MethodSyntax.AssemblyInfoInputs.cache
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\MethodSyntax.AssemblyInfo.cs
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\MethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\MethodSyntax.dll
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\ref\MethodSyntax.dll
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\MethodSyntax.pdb
+C:\Users\test\Desktop\work\Linq\LinqPractice\MethodSyntax\obj\Debug\net5.0\MethodSyntax.genruntimeconfig.cache
