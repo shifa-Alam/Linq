@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45a5aefd-63b5-4435-9063-1412c986f840": {
+      "ProjectGuid": "45a5aefd-63b5-4435-9063-1412c986f840",
+      "DisplayName": "MethodSyntax",
+      "ColorIndex": 0
+    },
+    "937399e8-2d20-4c5e-9def-14f77e1be53e": {
+      "ProjectGuid": "937399e8-2d20-4c5e-9def-14f77e1be53e",
+      "DisplayName": "QuerySyntax",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
